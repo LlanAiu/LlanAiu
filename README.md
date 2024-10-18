@@ -8,7 +8,7 @@ As such, one of my primary interests is robotics and control theory. There's jus
 
 I also really enjoyed competitive math in the past years, I'm swapping that over to competitive programming now in college, so we'll see how that goes (but it's been fun so far). 
 
-I'm currently learning the basics of web development, as that's a large sphere of software development that I've never touched until recently. I'm not really sure if it's something I like a lot, so for now, I'll label it as 'interesting'.
+I'm currently learning the basics of web development, as that's a large sphere of software development that I've never touched until recently. I'm definitely pleasantly surprised at the simplicity of a lot of these frameworks, as it makes it quite easy to turn my ideas into reality.
 
 Additionally, I've done a little work on in the past on reinforcement learning, mostly because I though that it would be dominant at playing cards - which it was very much not. It is definitely something I want learning more about in the future, along with machine learning in general, really.
 
