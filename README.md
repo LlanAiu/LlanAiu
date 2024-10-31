@@ -14,12 +14,6 @@ Additionally, I've done a little work on in the past on reinforcement learning, 
 
 In terms of other hobbies, I really enjoy practicing the piano (although I'm truthfully not very good) and - as hinted above - playing cards with friends and family.
 
-### Classes
-A list of some related classes that I've taken (or am taking):
-* COMP290 - An introduction to commonly used technical tools, like git, Docker, etc.
-* COMP210 - Data structures and analysis
-* AP Computer Science A - Essentially an introduction to programming in Java
-
 ### Programming Languages and Other Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
