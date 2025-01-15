@@ -1,5 +1,5 @@
 ## About Me
-I'm a freshman studying statistics and computer science (hopefully - since applications are a thing).
+I'm a statistics and computer science (hopefully - since applications are a thing) major at UNC.
 
 Why? For stat, that's an easy question - I really like being able to (in a way) see the future.
 For CS, it's more because my first impression of software development - being a part of my high school's robotics team - was a very positive one.
